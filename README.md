@@ -41,3 +41,6 @@ Use XIAO's on-board charger to charge battery. Charging current is 50mA.
 
 ## Power path
 Use XIAO's on-board power path circuit to automatically switch between USB and battery power.
+
+## Flashing XIAO
+Follow [Flashing](https://github.com/object-blueism/blueism_firmware/blob/main/docs/flashing.md) guide to flash blueism firmware to XIAO.
