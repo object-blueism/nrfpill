@@ -1,6 +1,6 @@
 # nrfpill
 ## Overview
-nrfpill is a simple custom development board designed to help users make Bluetooth HID devices. It consists of two main components: the Seeed Studio XIAO nRF52840 and the WeAct BlackPill F4x1. Users can run their own applications on the Blackpill and send fixed-format HID data to the XIAO via UART, and the XIAO running Blueism firmware will send the received data to the host via bluetooth HID.
+nrfpill is a simple custom development board designed to help users make Bluetooth HID devices. It consists of two main components: the [Seeed Studio XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) and the WeAct BlackPill F4x1. Users can run their own applications on the Blackpill and send fixed-format HID data to the XIAO via UART, and the XIAO running Blueism firmware will send the received data to the host via Bluetooth HID.
 ![nrfpill](https://i.imgur.com/OYeBnak.jpg)
 
 ## Building
